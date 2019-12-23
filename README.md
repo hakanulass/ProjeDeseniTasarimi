@@ -4,7 +4,7 @@
   
 # Müşteri Kullanıcı Ürün Seçim Arayüzü Tasarım Deseni:
   Müşteri Kullanıcı Ürün Seçim Arayüzü tasarım deseni, Ürün sipariş yükünün yapıcıdan alıcıya verilmesidir. Sipariş edilen nesne, bir katagori ayrımının hiyerarşiye ayrılmış halidir. Hangi katagorinin yapılacağı işi satıcıdan alıcıya yüklenir. Bu yordam ile belirli bir katgori hiyerarşisindeki alt ürünlerden birinin sipariş sorumluluğu belirli bir arayüze verilerek sistemden soyutlanmış olur. Böylece siparişi hazırlama kodlarında, kod tekrarları önlenmiş olur. Sistem içinde katagorilerin yaratılacağı yer tek olduğu için, ilgili oluşumlar bir arada alınabilir.
- ![Image of Class](https://github.com/omurgnr/TasarimDeseniProje/blob/master/urunclass.png)
+ ![Image of Class](https://github.com/hakanulass/ProjeDeseniTasarimi/blob/master/classdiagram.png)
  
  
  somut sınıf
@@ -74,7 +74,7 @@ public class sayimIslemi {
  Strateji(Strategy) tasarım deseni, behavioral tasarım desenlerinden biridir. Bir dizi algoritma tanımlar, bu algoritmaların erişimi için arayüz sağlar ve algoritmaları tanımlarken birbirlerinin yerine kullanılabilir özellikte tasarlar. Ayrıca client runtime zamanında dilediği algoritmayı seçebilir. 
   
   
-  ![Image of Class](https://github.com/omurgnr/TasarimDeseniProje/blob/master/strategyTasar%C4%B1mDeseni.png)
+  ![Image of Class](https://github.com/hakanulass/ProjeDeseniTasarimi/blob/master/StrategyDesing.png)
   
 
 
